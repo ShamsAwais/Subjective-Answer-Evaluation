@@ -47,7 +47,7 @@ $ python runserver.py
 ```
 
 **Login Board**
-![Login Board](https://raw.githubusercontent.com/ShamsAwais/Subjective-Answer-Evaluation/main/src/static/images/pic2.jpg)
+![Login Board](https://raw.githubusercontent.com/ShamsAwais/Subjective-Answer-Evaluation/main/src/static/images/pic2.png)
 
 **Result Board**
 ![Result Board](https://raw.githubusercontent.com/ShamsAwais/Subjective-Answer-Evaluation/main/src/static/images/pic5.png)
