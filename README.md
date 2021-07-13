@@ -12,7 +12,7 @@ and web technologies to provide an inexpensive alternative to the current examin
 We implement a model to automatically generate questions with their respective answers and
 assess user responses.
 
-![Homepage](https://raw.githubusercontent.com/ShamsAwais/Subjective-Answer-Evaluation/main/src/static/images/homepage.png)
+![Homepage](https://raw.githubusercontent.com/ShamsAwais/Subjective-Answer-Evaluation/main/src/static/images/home.png)
 
 ## Getting started
 
